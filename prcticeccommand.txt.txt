@@ -1,0 +1,3 @@
+git branch   ======> //this command  shpw all repository precent in remote repository
+git branch branch name   ===========>//this  command create new branch
+git checkout branch name   =======> // this command will changet the branche to selcted braches
